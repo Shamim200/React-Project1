@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React-Project1/static/css/main.58928926.css",
+    "main.js": "/React-Project1/static/js/main.16215628.js",
+    "static/js/787.37faa4c4.chunk.js": "/React-Project1/static/js/787.37faa4c4.chunk.js",
+    "static/media/card.png": "/React-Project1/static/media/card.43af27dfd77c8486a87a.png",
+    "static/media/1.jpg": "/React-Project1/static/media/1.deea19c64d3d00a2ce24.jpg",
+    "static/media/2.png": "/React-Project1/static/media/2.1852e84e966cf63c2004.png",
+    "index.html": "/React-Project1/index.html",
+    "main.58928926.css.map": "/React-Project1/static/css/main.58928926.css.map",
+    "main.16215628.js.map": "/React-Project1/static/js/main.16215628.js.map",
+    "787.37faa4c4.chunk.js.map": "/React-Project1/static/js/787.37faa4c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58928926.css",
+    "static/js/main.16215628.js"
+  ]
+}
