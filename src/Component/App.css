@@ -1,0 +1,49 @@
+.navbar-nav {
+  margin-left: auto;
+}
+
+.nav-link {
+  display: block;
+  padding: 1rem !important;
+  font-size: 1rem;
+  color: #000 !important;
+  transition: 0.5s all linear;
+}
+
+.nav-link:hover {
+  color: #61DAFB !important;
+}
+.active{
+  color: #61DAFB !important;
+  border-bottom: 1px solid #61DAFB;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+@media only screen and (max-width: 768px){
+  .active{
+   border: none;
+  }
+ 
+}
+
+@media only screen and (max-width: 575px) {
+  .nav-link {
+    padding: 10px 0 !important;
+  }
+ .active {
+
+   border: none;
+ }
+ .images{
+  margin-bottom: 4rem !important;
+ }
+ .heading{
+  margin-top: 2rem;
+ }
+}
+

@@ -1,0 +1,26 @@
+*,::after, ::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+:root{
+    --full-width: 100%;
+    --max-width: 1170px;
+    --header-background: skyblue;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    max-width: var(--max-width);
+    margin: 0 auto;
+}
+.container-fluid{
+    width: var(--full-width);
+}
+.header-bg{
+    background: var(--header-background);
+    padding: 1rem 0;
+}
